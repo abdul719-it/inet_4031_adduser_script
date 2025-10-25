@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
 # INET4031
-# Your Name
+# Sadaq Abdullahi
 # Data Created
-# Date Last Modified
+# 2025-10-25
 
 # Import necessary modules for system operations, regular expressions, and input handling
 import os
